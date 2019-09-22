@@ -6,7 +6,7 @@ email: help@leeseungju.com
 description: "짠돌이 아빠, 짠순이 엄마의 선택, 초대박 절약의 기회 공동구매 매일 진행!! 공짜버스폰, 핸드폰, 공짜폰 포함 쇼핑 공구 카페 사이트" # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 keywords: "쇼핑, 절약, 공동구매, 짠돌이카페, 짠순이"
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: "https://xn--ob0bwia296db6hbmm0oh.leevra.com" # the base hostname & protocol for your site
+url: "https://xn--ob0bwia296db6hbmm0oh.leeseungju.com" # the base hostname & protocol for your site
 locale: kr_KO
 permalink: /:title
 
